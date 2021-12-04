@@ -4,3 +4,5 @@ This repository contains basic guidlines on how to create prototypes for object 
 The procedure is outlined in `cvdl_hw2_report.pdf`
 
 .ipynb notebooks contain code from Roboflow to train and evaluate YOLO models.
+
+And here is the guide on how to train Mask R-CNN with Supervisely (literally 0 effort): https://legacy.docs.supervise.ly/neural-networks/examples/mask_rcnn/
